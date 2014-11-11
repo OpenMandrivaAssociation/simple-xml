@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          simple-xml
 Summary:       An XML serialization framework for Java
 Version:       2.7.1
