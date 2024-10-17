@@ -4,7 +4,7 @@ Summary:       An XML serialization framework for Java
 Version:       2.7.1
 Release:       4%{?dist}
 License:       ASL 2.0
-Url:           http://simple.sourceforge.net/
+Url:           https://simple.sourceforge.net/
 Source0:       http://downloads.sourceforge.net/simple/%{name}-%{version}.tar.gz
 Source1:       http://repo1.maven.org/maven2/org/simpleframework/%{name}/%{version}/%{name}-%{version}.pom
 
